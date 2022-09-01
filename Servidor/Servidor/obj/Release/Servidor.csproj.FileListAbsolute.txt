@@ -1,0 +1,7 @@
+C:\Users\SprNooB\Desktop\Servidor\Servidor\bin\Release\Servidor.exe.config
+C:\Users\SprNooB\Desktop\Servidor\Servidor\bin\Release\Servidor.exe
+C:\Users\SprNooB\Desktop\Servidor\Servidor\bin\Release\Servidor.pdb
+C:\Users\SprNooB\Desktop\Servidor\Servidor\obj\Release\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\SprNooB\Desktop\Servidor\Servidor\obj\Release\Servidor.exe
+C:\Users\SprNooB\Desktop\Servidor\Servidor\obj\Release\Servidor.pdb
+C:\Users\SprNooB\Desktop\Servidor\Servidor\obj\Release\Servidor.csprojAssemblyReference.cache

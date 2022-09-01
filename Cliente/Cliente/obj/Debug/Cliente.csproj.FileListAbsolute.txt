@@ -1,0 +1,32 @@
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\SprNooB\Desktop\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\SprNooB\Desktop\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\SprNooB\Desktop\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\SprNooB\Desktop\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\SprNooB\Desktop\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\SprNooB\Desktop\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\SprNooB\Desktop\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\SprNooB\Desktop\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\SprNooB\Desktop\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\SprNooB\Desktop\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\SprNooB\Desktop\Cliente\Cliente\obj\Debug\Cliente.Login.resources
+C:\Users\SprNooB\Desktop\Cliente\Cliente\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\SprNooB\Desktop\Cliente\Cliente\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\SprNooB\Desktop\Cliente\Cliente\obj\Debug\Cliente.csproj.CopyComplete
