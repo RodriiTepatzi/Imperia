@@ -12,3 +12,17 @@ C:\Users\SprNooB\Desktop\Cliente\Cliente\obj\Release\Cliente.csproj.CoreCompileI
 C:\Users\SprNooB\Desktop\Cliente\Cliente\obj\Release\Cliente.csproj.CopyComplete
 C:\Users\SprNooB\Desktop\Cliente\Cliente\obj\Release\Cliente.exe
 C:\Users\SprNooB\Desktop\Cliente\Cliente\obj\Release\Cliente.pdb
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\bin\Release\Cliente.exe.config
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\bin\Release\Cliente.exe
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\bin\Release\Cliente.pdb
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\obj\Release\Cliente.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\obj\Release\Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\obj\Release\Cliente.Form1.resources
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\obj\Release\Cliente.Login.resources
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\obj\Release\Cliente.Properties.Resources.resources
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\obj\Release\Cliente.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\obj\Release\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\obj\Release\Cliente.csproj.CopyComplete
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\obj\Release\Cliente.exe
+C:\Users\rodri\Documents\Github\TCPChat\Cliente\Cliente\obj\Release\Cliente.pdb

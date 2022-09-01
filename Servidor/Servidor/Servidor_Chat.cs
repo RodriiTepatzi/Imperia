@@ -12,11 +12,6 @@ namespace Servidor
 {
     class Servidor_Chat
     {
-        /*        
-            TcpListener--------> Espera la conexion del Cliente.        
-            TcpClient----------> Proporciona la Conexion entre el Servidor y el Cliente.        
-            NetworkStream------> Se encarga de enviar mensajes atravez de los sockets.        
-        */
         private string IPAdd, puerto;
 
         private TcpListener server;
@@ -42,7 +37,7 @@ namespace Servidor
 
         public void Inicio()
         {
-            Console.WriteLine("Servidor inciado");
+            Console.WriteLine("INFO [" + DateTime.Now.ToString("g") + "] " + "El servidor ha sido iniciado con exito.");
             server = new TcpListener(ipendpoint);
             server.Start();
 
@@ -58,12 +53,12 @@ namespace Servidor
                 con.nick = con.streamr.ReadLine();
 
                 list.Add(con);
-                Console.WriteLine(con.nick + " se a conectado.");
+                Console.WriteLine("INFO [" + DateTime.Now.ToString("g") + "] " + con.nick + " se a conectado.");
                 foreach (Connection c in list)
                 {
                     try
                     {
-                        c.streamw.WriteLine(con.nick + " se ha conectado.");
+                        c.streamw.WriteLine("[" + DateTime.Now.ToString("g") + "] " + con.nick + " se ha conectado.");
                         c.streamw.Flush();
                     }
                     catch
@@ -87,12 +82,12 @@ namespace Servidor
                 try
                 {
                     string tmp = hcon.streamr.ReadLine();
-                    Console.WriteLine(hcon.nick + ": " + tmp);
+                    Console.WriteLine("INFO [" + DateTime.Now.ToString("g") + "] " + hcon.nick + ": " + tmp);
                     foreach (Connection c in list)
                     {
                         try
                         {
-                            c.streamw.WriteLine(hcon.nick + ": " + tmp);
+                            c.streamw.WriteLine("[" + DateTime.Now.ToString("g") + "] " + hcon.nick + ": " + tmp);
                             c.streamw.Flush();
                         }
                         catch
@@ -103,12 +98,12 @@ namespace Servidor
                 catch
                 {
                     list.Remove(hcon);
-                    Console.WriteLine(con.nick + " se a desconectado.");
+                    Console.WriteLine("INFO [" + DateTime.Now.ToString("g") + "] " + con.nick + " se a desconectado.");
                     foreach (Connection c in list)
                     {
                         try
                         {
-                            c.streamw.WriteLine(con.nick + " se ha ido.");
+                            c.streamw.WriteLine("[" + DateTime.Now.ToString("g") + "] " + con.nick + " se ha ido.");
                             c.streamw.Flush();
                         }
                         catch
